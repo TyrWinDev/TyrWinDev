@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://imgur.com/Ku8DeAZ" align="center" style="width: 50%" />
-</div>  
+
 
 
 ### <div align="center">I'm Pedro, a full-time full-stack  software engineer 👨‍💻 working remotely since 2020 🚀</div>  
