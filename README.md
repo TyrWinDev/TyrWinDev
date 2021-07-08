@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://imgur.com/a/BvZLcOc" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-  
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/BvZLcOc" data-context="false" ><a href="//imgur.com/a/BvZLcOc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ### <div align="center">I'm Pedro, a full-time full-stack  software engineer 👨‍💻 working remotely since 2020 🚀</div>  
   
