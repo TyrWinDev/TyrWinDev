@@ -16,6 +16,9 @@
   
 
 - 📬 You can contact me at pedrolmedina@outlook.es  
+
+
+- 😎 Ask me anything about Video Games, Video Editing, and Graphic Design! 
   
 
 <br/>  
