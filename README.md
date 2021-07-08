@@ -1,7 +1,7 @@
 
 
 
-### <div align="center">I'm Pedro, a full-time full-stack  software engineer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Pedro, a full-time freelance full-stack software engineer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Game Deal Finder](https://github.com/TyrWinDev/Game-Deal-Finder)  
