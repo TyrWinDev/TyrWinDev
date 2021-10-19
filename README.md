@@ -4,7 +4,7 @@
 ### <div align="center">I'm Pedro, a full-time freelance full-stack software engineer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Game Deal Finder](https://github.com/TyrWinDev/Game-Deal-Finder)  
+- 🔭 I’m currently working on [Game Fight](https://github.com/TyrWinDev/Game-Fight)  
   
 
 - 🌱 I’m currently learning React  
@@ -16,7 +16,7 @@
 - 📬 You can contact me at pedrolmedina@outlook.es  
 
 
-- 😎 Ask me anything about Video Games, Video Editing, and Graphic Design! 
+- 😎 Ask me anything about Programming, Video Games, and Graphic Design! 
   
 
 <br/>  
