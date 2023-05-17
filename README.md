@@ -29,11 +29,11 @@
   </div>
 
   <div class="card--project">
-      <a href="project1.html" target="_blank"><span>🏆 </span>Fully responsive React landing page, with custom design integration for mock Restaurant</a>
+      <a href="#" target="_blank"><span>🏆 </span>Fully responsive React landing page, with custom design integration for mock Restaurant</a>
   </div>
 
   <div class="card--project">
-      <a href="project1.html" target="_blank"><span>🏆 </span>DnD Character Creator, and Manager using localstorage. (WIP)</a>
+      <a href="#" target="_blank"><span>🏆 </span>DnD Character Creator, and Manager using localstorage. (WIP)</a>
   </div>
 
 </div>
