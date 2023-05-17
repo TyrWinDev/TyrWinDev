@@ -1,23 +1,13 @@
 
 
 
-### <div align="center">I'm Pedro, a full-stack software engineer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Pedro, a full-stack software engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Game Fight](https://github.com/TyrWinDev/Game-Fight)  
-  
-
-- 🌱 I’m currently learning React  
-  
-
-- ⚡ All of my projects are available at https://www.pedromedina.dev  
-  
-
-- 📬 You can contact me at pedrolmedina@outlook.es  
-
-
-- 😎 Ask me anything about Programming, Video Games, and Graphic Design! 
-  
+✔️ 2+ Years experience with front end development
+✔️ Experience working with APIs & Database Design.
+✔️ Developed code to convert design wireframes into website elements
+✔️ Experienced with the use of frameworks for front end development such as React and Vue, design software such as Figma and programming languages such as HTML and JavaScript
 
 <br/>  
 
