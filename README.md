@@ -3,11 +3,15 @@
 
 ### <div align="center">I'm Pedro, a full-stack software engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
+<div>
+  <ul>
+    <li>✔️ 2+ Years experience with front end development</li>
+    <li>✔️ Experience working with APIs & Database Design.</li>
+    <li>✔️ Developed code to convert design wireframes into website elements</li>
+    <li>✔️ Experienced with the use of frameworks for front end development such as React and Vue, design software such as Figma and programming languages such as HTML and JavaScript</li>
+  </ul>
+</div>
 
-✔️ 2+ Years experience with front end development
-✔️ Experience working with APIs & Database Design.
-✔️ Developed code to convert design wireframes into website elements
-✔️ Experienced with the use of frameworks for front end development such as React and Vue, design software such as Figma and programming languages such as HTML and JavaScript
 
 <br/>  
 
