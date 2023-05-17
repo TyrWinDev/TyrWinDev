@@ -6,7 +6,7 @@
 <br/>
   
 <div>
-  <ul>
+  <ul style="list-style: none;">
     <li>✔️ 2+ Years experience with front end development</li>
     <li>✔️ Experience working with APIs & Database Design.</li>
     <li>✔️ Developed code to convert design wireframes into website elements</li>
@@ -16,6 +16,30 @@
 
 
 <br/>  
+
+<div class="section--page">
+  <h2>Frontend Projects</h2>
+
+  <div class="card--project">
+      <a href="https://tyrwindev.github.io/gpt3-react-landing-page.github.io/" alt="React landing page for GPT-3 link" target="_blank"><span>🏆 </span>Fully responsive React landing page for GPT-3</a>
+  </div>
+
+  <div class="card--project">
+      <a href="https://babiloniacommerce.com/" alt="Babilonia Commerce landing page link" target="_blank"><span>🏆 </span>Several features and pages for Babilonia Commerce</a>
+  </div>
+
+  <div class="card--project">
+      <a href="project1.html" target="_blank"><span>🏆 </span>Fully responsive React landing page, with custom design integration for mock Restaurant</a>
+  </div>
+
+  <div class="card--project">
+      <a href="project1.html" target="_blank"><span>🏆 </span>DnD Character Creator, and Manager using localstorage. (WIP)</a>
+  </div>
+
+</div>
+
+
+<br/>
 
 
 ## My Skill Set  
