@@ -1,7 +1,7 @@
 
 
 
-### <div align="center">I'm Pedro, a full-stack software engineer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Pedro, a ffrontend software engineer 👨‍💻 working remotely since 2021 🚀</div>  
   
 <div>
   <ul>
