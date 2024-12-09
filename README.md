@@ -1,7 +1,7 @@
 
 
 
-### <div align="center">I'm Pedro, a frontend software engineer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Pedro, a React Developer 👨‍💻 working remotely since 2021 🚀</div>  
 
 <br/>
   
